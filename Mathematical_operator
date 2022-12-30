@@ -1,0 +1,34 @@
+console.log("Masai School"); 
+console.log("A Transformation in Education");
+
+
+function multiplyBy50(number) {
+console.log(number*50);    // Write code here
+ }
+
+
+function productOfSix(one, two, three, four, five, six) {
+ console.log(one*two*three*four*five*six);   // Write code here
+ }
+
+
+function sumOfFive(one, two, three, four, five) {
+ console.log(one+two+three+four+five);   // Write code here
+ }
+
+
+
+function cubeOfNumber(N) {
+ 
+ console.log(N*N*N);   // Write code here
+ }
+
+function squareAndSum(one, two, three) {
+ console.log(one*one+two*two+three*three); // Write code here
+}
+
+function findX(x) {
+    // Write code here
+ console.log((x*3)+10);  
+}
+
